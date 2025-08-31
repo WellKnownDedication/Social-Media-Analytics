@@ -7,7 +7,6 @@ kagglehub
 scipy
 requests
 beautifulsoup4
-selenium
 lxml
 schedule
 pyautogui
